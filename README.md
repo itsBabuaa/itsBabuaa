@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itsBabuaa
+- 👀 I’m interested in Graphic Design, 3D Work, Python
+- 🌱 I’m currently learning Pyhton
+- 📫 How to reach me DM on Insta @yashbabuaa
+- ⚡ Fun fact: If you teach me i will become your best student possible only if your good at teaching.......!
