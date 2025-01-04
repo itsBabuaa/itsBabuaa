@@ -28,7 +28,7 @@ Hi there! I'm **Atharv Singh**, also known as **@itsBabuaa**. Here's a glimpse i
 ### 📬 Get in Touch  
 
 - **Email**: [atharvsingh.edu@gmail.com](mailto:atharvsingh.edu@gmail.com)  
-- **LeetCode**: [https://leetcode.com/u/itsbabuaa/](https://leetcode.com/u/itsbabuaa/)
+- **LeetCode**: [itsBabuaa/](https://leetcode.com/u/itsbabuaa/)
 
 <!--
 ---
