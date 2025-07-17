@@ -21,7 +21,7 @@ Hi there! I'm **Atharv Singh**, also known as **@itsBabuaa**. Here's a glimpse i
 | 💻 Programming | 🎨 Design | 🛠️ Tools |  
 | -------------- | --------- | -------- |  
 | Python 🐍      | Canva 🎨 | Git & GitHub |  
-| Machine Learning | Picsart 🌟 | VS Code 💻 |  
+| Machine Learning | Picsart 🌟 | PyCharm 💻 |  
 
 ---
 
