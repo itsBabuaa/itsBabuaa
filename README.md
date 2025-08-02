@@ -13,7 +13,6 @@ I'm **Atharv Singh**, but they call me **Babuaa**.
 - 🧠 **Fun Fact**:  
   If you’re an amazing teacher, I’ll be the best student you’ve ever had! 💡  
 
----
 
 ### 💼 Skills & Tools  
 
@@ -24,7 +23,7 @@ I'm **Atharv Singh**, but they call me **Babuaa**.
 
 ### Github stats: 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsBabuaa&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
 
 
 ### 📬 Get in Touch  
