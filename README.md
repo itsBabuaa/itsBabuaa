@@ -1,12 +1,11 @@
-# 👋 Welcome to @itsBabuaa's GitHub Profile!
+# 👋 Hi there!
 
----
 
 ### 🌟 About Me  
-Hi there! I'm **Atharv Singh**, also known as **@itsBabuaa**. Here's a glimpse into who I am and what I love:
+I'm **Atharv Singh**, but they call me **Babuaa**.
 
 - 🔭 **Passionate About**:  
-  Graphic Design 🎨 | Machine Learning 🤖 | Python 🐍  
+  Python 🐍 | Machine Learning 🤖 | Gaming 🎮 | Anime 😶‍🌫️
 
 - 🌱 **Currently Learning**:  
   Python programming, and diving deeper into the world of **ML and AI**.  
@@ -23,12 +22,15 @@ Hi there! I'm **Atharv Singh**, also known as **@itsBabuaa**. Here's a glimpse i
 | Python 🐍      | Canva 🎨 | Git & GitHub |  
 | Machine Learning | Picsart 🌟 | PyCharm 💻 |  
 
----
+### Github stats: 
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
+
 
 ### 📬 Get in Touch  
 
 - **Email**: [atharvsingh.edu@gmail.com](mailto:atharvsingh.edu@gmail.com)  
-- **LeetCode**: [itsBabuaa/](https://leetcode.com/u/itsbabuaa/)
+- **LeetCode**: [itsBabuaa](https://leetcode.com/u/itsbabuaa/)
 
 <!--
 ---
