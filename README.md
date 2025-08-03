@@ -1,7 +1,5 @@
 # 👋 Hi there!
-
-
-### 🌟 About Me  
+ 
 I'm **Atharv Singh**, but they call me **Babuaa**.
 
 - 🔭 **Passionate About**:  
@@ -11,7 +9,7 @@ I'm **Atharv Singh**, but they call me **Babuaa**.
   Python programming, and diving deeper into the world of **ML and AI**.  
 
 - 🧠 **Fun Fact**:  
-  If you’re an amazing teacher, I’ll be the best student you’ve ever had! 💡  
+  ML algo are used in prediction yet Lift Remains Unpredicted 💡  
 
 
 ### 💼 Skills & Tools  
