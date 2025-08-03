@@ -9,7 +9,7 @@ I'm **Atharv Singh**, but they call me **Babuaa**.
   Python programming, and diving deeper into the world of **ML and AI**.  
 
 - 🧠 **Fun Fact**:  
-  ML algo are used in prediction yet Lift Remains Unpredicted 💡  
+  ML algo are used in prediction yet Life Remains Unpredicted 💡  
 
 
 ### 💼 Skills & Tools  
