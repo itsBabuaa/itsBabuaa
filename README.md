@@ -21,12 +21,12 @@ I'm **Atharv Singh**, but they call me **Babuaa**.
 
 ### Github stats: 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsBabuaa&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsbabuaa&show_icons=true&theme=tokyonight" width="49%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbabuaa&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsbabuaa&theme=tokyonight" width="100%"/>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsBabuaa&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
+ <br>
+ <img src="https://github-readme-stats.vercel.app/api?username=itsbabuaa&show_icons=true&theme=tokyonight" width="49%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsbabuaa&theme=tokyonight" width="100%"/>
 </p>
 
 
