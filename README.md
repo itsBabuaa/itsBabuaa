@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hie there!
  
 I'm **Atharv Singh**, but they call me **Babuaa**.
 
